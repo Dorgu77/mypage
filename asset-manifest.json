@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/porty22/static/css/main.4f12410c.css",
+    "main.js": "/porty22/static/js/main.f4e58b44.js",
+    "index.html": "/porty22/index.html",
+    "main.4f12410c.css.map": "/porty22/static/css/main.4f12410c.css.map",
+    "main.f4e58b44.js.map": "/porty22/static/js/main.f4e58b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f12410c.css",
+    "static/js/main.f4e58b44.js"
+  ]
+}
